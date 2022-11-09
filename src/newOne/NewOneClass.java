@@ -6,5 +6,8 @@ public class NewOneClass {
 		System.out.println(" I never lost hope");
 
 	}
+	public void abc() {
+		System.out.println("abc");
+	}
 
 }
