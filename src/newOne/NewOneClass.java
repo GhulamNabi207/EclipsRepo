@@ -9,5 +9,7 @@ public class NewOneClass {
 	public void abc() {
 		System.out.println("abc");
 	}
-
+     public void abcd() {
+		System.out.println("abcd");
+	}
 }
