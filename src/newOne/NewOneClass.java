@@ -12,6 +12,10 @@ public class NewOneClass {
      public void abcd() {
 		System.out.println("abcd");
 		System.out.println("inside panthers branch");
+		
 	}
+     public void count() {
+    	 System.out.println(2+18);
+     }
    
 }
